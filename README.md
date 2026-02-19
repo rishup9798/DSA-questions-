@@ -1,1 +1,1 @@
-# DSA-questions: https://leetcode.com/u/rishup7/
+Leetcode Profile: https://leetcode.com/u/rishup7/
